@@ -34,4 +34,9 @@
 * **技術スタック**: Java, Android SDK, BigInteger (多倍長整数演算)
 * **特長**: RSA暗号や楕円曲線暗号（ECC）の数理理論を3日間で解読し、スクラッチで暗号化・復号モジュールを実装。JavaのBigInteger仕様に伴う先頭符号ビット（0x00）の除去や、ネットワーク転送時の128バイト固定長ブロックバッファの厳格なパディング制御を自力で実装し、パケット崩壊を防ぐ堅牢性を担保。
 
+### 7. 🎁 検証や紹介用に作った簡単なサンプル （公開中）
+* **公開ページ**:(https://yabusan2-dot.github.io/my-it-toolbox/)
+* **リポジトリ**: (https://github.com/yabusan2-dot/my-it-toolbox)
+* **技術スタック**: HTML5 Canvas,JavaScript (Vanilla JS), CSS3
+* **特長**: 独立して解説することはないが、職業訓練の半年で紹介した様々なサンプル、資料を集めたものです。
 ---
