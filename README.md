@@ -28,7 +28,7 @@
 * **技術スタック**: JavaScript, WebSocket, Android Java (Sensor API)
 * **特長**: スマホの3軸加速度・傾き（Roll角）をリアルタイムにバットの軌道行列へコンバートするマルチデバイス連携。3Dエンジンを使わず、投球時の「斜め30度視点」とインパクト時の「真上俯瞰ビュー」を直交反転させる2.5次元カメラワークをCSSとCanvasのみで軽量実装。サードやレフトなど扇形フィールドの野手守備半径（r）と打球の仮想高さによる3次元コリジョン（当たり判定）を数理実装。
 
-### 6. 💻 Java 暗号通信利用の通信サンプルコード（RSA、ECC）
+### 6. 💻 Java 暗号通信利用の通信サンプルコード（RSA、ECC） （公開中）
 * **リポジトリ**: (https://github.com/yabusan2-dot/RSA_sample)
 * **リポジトリ**: (https://github.com/yabusan2-dot/ECC_sample)
 * **技術スタック**: Java, Android SDK, BigInteger (多倍長整数演算)
